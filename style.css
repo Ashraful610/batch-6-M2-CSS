@@ -1,0 +1,22 @@
+h2{
+    color:navy;
+}
+p{
+    color:salmon;
+    background-color: aqua ;
+    width: 75%;
+    height: 50px;
+    font-size: 20px;
+}
+.design{
+    font-size: 20px;
+    color: blue;
+}
+#welcome{
+    font-size: 22px;
+    background-color: brown ;
+    color: white ;
+}
+strong{
+    display: block;
+}
